@@ -1,0 +1,17 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Interactive application that allows the user to search by city, get  weather conditions and search history",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jose Alberto Aguera Benitez",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^8.0.0"
+  }
+}
